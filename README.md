@@ -103,9 +103,9 @@ Currently Learning:
 
 # 📂 Featured Projects
 
-🚀 Linux Toolkit
+🌤️ Whether App
 
-🐍 Snake Game
+📱 Expense Tracker System
 
 ✂️ File Organizer
 
