@@ -1,83 +1,154 @@
-# Hey 👋, I'm Somya Chouhan
+<div align="center">
 
-### 🚀 B.Tech CSE Student | Google Student Ambassador | Python • Web • Cloud • Open Source
+# 👋 Hey, I'm Somya Chouhan
 
-<p align="left">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/somya-chouhan-09b6a7383">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### 🚀 Building • Learning • Sharing
+
+🎓 B.Tech CSE Student  
+🌟 Google Student Ambassador  
+☁️ Google Cloud Arcade Facilitator  
+💻 Open Source Enthusiast
 
 ---
 
-## 🚀 About Me
+### ⚡ Developer Status
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- 🌟 Google Student Ambassador
-- 💻 Passionate about Python, Web Development & Cloud Computing
-- 🐧 Exploring Linux, Docker and Open Source
-- 🚀 Building projects to improve my development skills
-- 📚 Always learning something new every day
+```text
+🟢 STATUS       : ONLINE
+📍 LOCATION     : India
+🎯 FOCUS        : Cloud • Python • Open Source
+☕ COFFEE LEVEL : ████████░░ 80%
+🚀 MOTIVATION   : ██████████ 100%
+```
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Mission Control
 
-### 💻 Languages
+```yaml
+Current Focus:
+  - Google Cloud
+  - Python Development
+  - Open Source Contributions
+  - Web Development
+  - Linux & Docker
+
+Currently Learning:
+  - Cloud Computing
+  - Backend Development
+  - DevOps
+  - AI & Automation
+
+2026 Goals:
+  - Build 20+ Projects
+  - Earn Google Cloud Certifications
+  - Contribute to Major Open Source Projects
+  - Help Students Learn Tech
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 🌐 Web
+### Web
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools & Platforms
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📂 Featured Projects
+# 📊 GitHub Dashboard
 
-🔹 Student Record Management System (C)
+<p align="center">
 
-🔹 Expense Tracker (Python)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Somya-aa&show_icons=true&theme=tokyonight"/>
 
-🔹 Personal Portfolio Website
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Somya-aa&theme=tokyonight"/>
 
-🔹 Linux Shell Scripts
+</p>
 
----
+<p align="center">
 
-## 🎯 Currently Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somya-aa&layout=compact&theme=tokyonight"/>
 
-- ☁️ Google Cloud
-- 🐳 Docker
-- ⚡ SQL & Database Design
-- 🌐 Full Stack Development
-- 📚 Data Structures & Algorithms
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 Current Missions
 
-- 💼 LinkedIn: https://www.linkedin.com/in/somya-chouhan-09b6a7383
-- 💻 GitHub: https://github.com/somya-aa
+- 🌩 Master Google Cloud
+- 🐍 Build Python Projects
+- 🌍 Contribute to Open Source
+- 🎥 Create Tech Content
+- 🤝 Help the Developer Community
 
 ---
 
-⭐ *"Learning by building, growing by sharing."*
+# 📂 Featured Projects
+
+🚀 Linux Toolkit
+
+🐍 Snake Game
+
+✂️ File Organizer
+
+✊ Rock Paper Scissors
+
+☁️ Google Cloud Labs
+
+---
+
+# 📈 Coding Progress
+
+```text
+Python            █████████░░ 90%
+
+Cloud             ███████░░░░ 70%
+
+Linux             ██████░░░░░ 60%
+
+Docker            █████░░░░░░ 50%
+
+Open Source       ████████░░░ 80%
+```
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Somya-aa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/somya-chouhan-09b6a7383/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Every commit is a step toward becoming a better developer.
+
+</div>
